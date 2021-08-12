@@ -1,0 +1,18 @@
+div#bank_receipt_preview {
+    display: inline-flex;
+    text-align: center;
+}
+
+span#removeReceipt {
+    padding: 3px 8px;
+    border: 1px solid;
+    height: 27px;
+    margin-left: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+div#bank_receipt_preview img {
+    width: 150px;
+    height: auto;    
+}
